@@ -80,7 +80,7 @@ public class OrganizadorDeMusicas
     /**
      * Para o tocador
      */
-    public void pararDeTocars()
+    public void pararDeTocar()
     {
         tocador.parar();
     }
